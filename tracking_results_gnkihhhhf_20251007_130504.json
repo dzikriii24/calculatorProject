@@ -1,0 +1,32 @@
+{
+  "username": "gnkihhhhf",
+  "timestamp": "2025-10-07T13:04:53.140670",
+  "platforms": {
+    "tiktok": {
+      "status": "found",
+      "url": "https://www.tiktok.com/@gnkihhhhf",
+      "profile_data": {},
+      "last_checked": "2025-10-07T13:04:53.612115"
+    },
+    "instagram": {
+      "status": "found",
+      "url": "https://www.instagram.com/gnkihhhhf/",
+      "profile_data": {},
+      "last_checked": "2025-10-07T13:04:55.932655"
+    },
+    "twitter": {
+      "status": "found",
+      "url": "https://twitter.com/gnkihhhhf",
+      "profile_data": {},
+      "last_checked": "2025-10-07T13:04:58.152657"
+    },
+    "youtube": {
+      "status": "not_found",
+      "error": "HTTP 404"
+    },
+    "facebook": {
+      "status": "not_found",
+      "error": "HTTP 400"
+    }
+  }
+}
